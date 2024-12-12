@@ -1,10 +1,11 @@
 export default `<!doctype html>
 
 <html lang="en">
-<head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><base href="/PortfolioNew/">
+<head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
   <meta charset="utf-8">
   <title>Giriprasath | Portfolio</title>
- 
+  <base href="/PortfolioNew/">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="logo.png">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
