@@ -1,0 +1,13 @@
+/* Apply Nunito font to all elements */
+* {
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  /* Optionally, style specific sections */
+  header, footer {
+    font-family: 'Nunito', sans-serif;
+  }
+   /* Smooth scrolling */
+   html {
+    scroll-behavior: smooth;
+  }
